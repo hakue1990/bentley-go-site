@@ -9,8 +9,8 @@ logo = "assets/img/logo.webp"
 favicon = "assets/favicon.png"
 
 # Info
-address = "123 Arch B1W, GNU/Linux"
-email = "hello@graysx.com"
+address = "Skórzewo 666 ul. bentlejowa 333"
+email = "bartas@BentleyX.pl"
 phone = "123456"
 
 # Socials
@@ -28,7 +28,7 @@ sbtoken = "TOKEN_HERE"
 [menu]
   [[menu.main]]
   name = "O nas"
-  URL = "#  "
+  URL = "#about"
   weight = 1
 
   [[menu.main]]

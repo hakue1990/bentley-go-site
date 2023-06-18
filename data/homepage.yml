@@ -2,9 +2,9 @@
 main:
   header:
     title : "Event Bentley" # Title Text
-    description : "Wyporzyczalnia luksusowego auta na różne eeventy" # Title Desc
+    description : "Wyporzyczalnia luksusowego auta na specjalne okoliczności " # Title Desc
     button:
-      text: "Dowiedz się więcej" # Button Text
+      text: "czytaj dalej" # Button Text
       url: "#about" # Button URL
 
 # About
