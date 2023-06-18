@@ -1,7 +1,7 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 theme = 'graysx'
-title = 'Example Graysx Site'
+title = 'Bentley Site'
 
 ## Site Settings
 [params]
@@ -11,7 +11,7 @@ favicon = "assets/favicon.png"
 # Info
 address = "Skórzewo 666 ul. bentlejowa 333"
 email = "bartas@BentleyX.pl"
-phone = "123456"
+phone = "666 666 666"
 
 # Socials
 

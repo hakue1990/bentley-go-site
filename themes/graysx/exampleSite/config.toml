@@ -37,7 +37,7 @@ sbtoken = "TOKEN_HERE"
   weight = 2
 
   [[menu.main]]
-  name = "Contact"
+  name = "Kontakt"
   URL = "#signup"
   weight = 3
 
